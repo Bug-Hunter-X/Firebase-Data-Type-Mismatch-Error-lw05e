@@ -1,0 +1,1 @@
+The Firebase SDK might throw an error if the data retrieved from the database is unexpectedly structured or contains invalid data types. This can happen if the data is modified outside of the app, for example, through the Firebase console or another client.
